@@ -1,0 +1,118 @@
+body {
+    font-family: 'Montserrat', sans-serif;
+}
+
+p {
+    font-size: 2 rem;
+    color: black;
+    font-weight: 300;
+}
+#title {
+background-color: #a8dadc ;
+color: black;
+
+}
+
+
+
+#about {
+    background-color: #a8dadc ;
+    color: black; 
+}
+
+#contactus {
+    background-color: #a8dadc ;
+    color: black;
+    
+}
+
+.container-fluid {
+    padding: 15% 10%;
+}
+
+.about {
+    padding: 10% 10%;
+    height: inherit;
+    /* text-decoration: underline;
+    text-decoration-color: black; */
+}
+
+.contact {
+    padding: 1% 10%;
+}
+
+h1 {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 3rem;
+    line-height: 1.5;
+    font-weight: 600;
+}
+
+/* Navigation Bar */
+/* .navbar {
+    padding-bottom: 4.5rem;
+} */
+.navbar-brand {
+    font-family: "Ubuntu";
+    font-size: 2rem;
+    font-weight: bold;
+}
+
+.nav-item {
+    font-size: 1.2rem;
+}
+
+
+.lottie-player {
+    width:150px;
+    height: 500px;
+}
+
+.headings {
+    padding: 1% 40%;
+    text-decoration: underline;
+    text-decoration-color: #457b9d ;
+}
+
+.contactUs-Heading {
+    padding: 1% 35%;
+    text-decoration: underline;
+    text-decoration-color: #457b9d ;
+}
+
+.card-group {
+    padding: 3% 10%;
+}
+
+.card-img-top {
+    height: 40%;
+}
+
+.card-title {
+    font-weight: bold;
+    font-size: 1.5rem;
+}
+.card-body {
+    background-color: #edf6f9;
+    font-weight: 500;
+}
+
+.about-image {
+    height: 100%;
+}
+
+.bold-headings {
+    font-weight: bold;
+    text-decoration: underline;
+}
+
+.container {
+    width: auto;
+    max-width: 680px;
+    padding: 0 15px;
+}
+  
+.footer {
+background-color: black;
+color: white;
+}
